@@ -1,0 +1,182 @@
+2017-06-04 21:11:09,205 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:11:09,205 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:11:11,892 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 2.812 seconds (JVM running for 1723.179)
+2017-06-04 21:14:30,078 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:14:30,078 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:14:30,078 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:14:33,185 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.263 seconds (JVM running for 1924.473)
+2017-06-04 21:14:42,527 DEBUG [http-nio-8092-exec-3] e.j.a.b.VaadinUI [VaadinUI.java:45] VaadinUI :: init :: inicio
+2017-06-04 21:14:42,556 DEBUG [http-nio-8092-exec-3] e.j.a.b.VaadinUI [VaadinUI.java:89] VaadinUI :: init :: fin
+2017-06-04 21:14:44,093 DEBUG [http-nio-8092-exec-6] e.j.a.b.VaadinUI [VaadinUI.java:55] VaadinUI :: buttonCatalogo.buttonClick :: inicio
+2017-06-04 21:14:44,624 DEBUG [http-nio-8092-exec-6] e.j.a.b.VaadinUI [VaadinUI.java:94] VaadinUI :: transforToArrayList :: inicio
+2017-06-04 21:14:44,625 DEBUG [http-nio-8092-exec-6] e.j.a.b.VaadinUI [VaadinUI.java:99] VaadinUI :: transforToArrayList :: fin
+2017-06-04 21:14:44,626 DEBUG [http-nio-8092-exec-6] e.j.a.b.VaadinUI [VaadinUI.java:65] VaadinUI :: buttonCatalogo.buttonClick :: fin
+2017-06-04 21:43:01,486 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:43:01,657 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:43:01,657 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:43:01,657 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:43:05,920 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 4.419 seconds (JVM running for 3637.207)
+2017-06-04 21:43:42,583 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:43:42,724 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:43:42,724 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:43:42,724 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:43:46,424 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.825 seconds (JVM running for 3677.718)
+2017-06-04 21:43:52,759 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:43:52,977 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:43:52,977 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:43:52,977 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:43:58,552 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 5.762 seconds (JVM running for 3689.844)
+2017-06-04 21:44:31,206 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:45] VaadinUI :: init :: inicio
+2017-06-04 21:44:31,290 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:89] VaadinUI :: init :: fin
+2017-06-04 21:44:38,570 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:55] VaadinUI :: buttonCatalogo.buttonClick :: inicio
+2017-06-04 21:44:39,111 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:94] VaadinUI :: transforToArrayList :: inicio
+2017-06-04 21:44:39,111 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:99] VaadinUI :: transforToArrayList :: fin
+2017-06-04 21:44:39,112 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:65] VaadinUI :: buttonCatalogo.buttonClick :: fin
+2017-06-04 21:45:38,564 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:45:38,564 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:45:38,564 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:45:41,889 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.435 seconds (JVM running for 3793.18)
+2017-06-04 21:46:05,681 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:46:05,681 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:46:05,681 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:46:09,460 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.919 seconds (JVM running for 3820.747)
+2017-06-04 21:46:16,969 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:46:17,140 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:46:17,140 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:46:17,140 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:46:20,357 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.373 seconds (JVM running for 3831.643)
+2017-06-04 21:48:17,742 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:48:17,976 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:48:17,976 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:48:17,976 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:48:21,475 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.718 seconds (JVM running for 3952.759)
+2017-06-04 21:49:23,831 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:49:24,096 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:49:24,096 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:49:24,096 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:49:27,461 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.599 seconds (JVM running for 4018.752)
+2017-06-04 21:50:17,586 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:45] VaadinUI :: init :: inicio
+2017-06-04 21:50:17,623 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:89] VaadinUI :: init :: fin
+2017-06-04 21:50:20,572 DEBUG [http-nio-8092-exec-4] e.j.a.b.VaadinUI [VaadinUI.java:55] VaadinUI :: buttonCatalogo.buttonClick :: inicio
+2017-06-04 21:50:21,099 DEBUG [http-nio-8092-exec-4] e.j.a.b.VaadinUI [VaadinUI.java:94] VaadinUI :: transforToArrayList :: inicio
+2017-06-04 21:50:21,099 DEBUG [http-nio-8092-exec-4] e.j.a.b.VaadinUI [VaadinUI.java:99] VaadinUI :: transforToArrayList :: fin
+2017-06-04 21:50:21,100 DEBUG [http-nio-8092-exec-4] e.j.a.b.VaadinUI [VaadinUI.java:65] VaadinUI :: buttonCatalogo.buttonClick :: fin
+2017-06-04 21:53:55,181 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:53:55,431 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:53:55,431 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:53:55,431 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:54:01,417 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 6.22 seconds (JVM running for 4292.715)
+2017-06-04 21:54:40,198 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:54:40,362 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:54:40,362 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:54:40,362 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:54:44,315 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 4.082 seconds (JVM running for 4335.601)
+2017-06-04 21:54:47,486 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:54:47,642 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 4984 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 21:54:47,642 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 21:54:47,642 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 21:54:51,143 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.641 seconds (JVM running for 4342.432)
+2017-06-04 21:57:32,932 DEBUG [main] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:57:33,260 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:58:05,449 DEBUG [main] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:58:05,776 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:58:33,808 DEBUG [main] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 21:58:34,135 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 22:00:06,552 DEBUG [main] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 22:00:06,880 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-06-04 22:00:07,739 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 2616 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-06-04 22:00:07,739 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-06-04 22:00:07,739 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-06-04 22:00:13,635 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 6.74 seconds (JVM running for 7.74)
+2017-06-04 22:00:21,652 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:45] VaadinUI :: init :: inicio
+2017-06-04 22:00:21,976 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:89] VaadinUI :: init :: fin
+2017-06-04 22:00:26,433 DEBUG [http-nio-8092-exec-8] e.j.a.b.VaadinUI [VaadinUI.java:55] VaadinUI :: buttonCatalogo.buttonClick :: inicio
+2017-06-04 22:00:26,673 DEBUG [http-nio-8092-exec-8] e.j.a.b.VaadinUI [VaadinUI.java:94] VaadinUI :: transforToArrayList :: inicio
+2017-06-04 22:00:26,673 DEBUG [http-nio-8092-exec-8] e.j.a.b.VaadinUI [VaadinUI.java:99] VaadinUI :: transforToArrayList :: fin
+2017-06-04 22:00:26,673 DEBUG [http-nio-8092-exec-8] e.j.a.b.VaadinUI [VaadinUI.java:65] VaadinUI :: buttonCatalogo.buttonClick :: fin
+2017-11-12 20:13:14,990 DEBUG [main] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:13:15,832 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:13:18,713 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:13:18,714 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:13:18,714 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:13:28,241 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 12.395 seconds (JVM running for 14.12)
+2017-11-12 20:15:07,048 DEBUG [http-nio-8092-exec-10] e.j.a.b.VaadinUI [VaadinUI.java:45] VaadinUI :: init :: inicio
+2017-11-12 20:15:07,708 DEBUG [http-nio-8092-exec-10] e.j.a.b.VaadinUI [VaadinUI.java:89] VaadinUI :: init :: fin
+2017-11-12 20:15:11,265 DEBUG [http-nio-8092-exec-1] e.j.a.b.VaadinUI [VaadinUI.java:55] VaadinUI :: buttonCatalogo.buttonClick :: inicio
+2017-11-12 20:16:56,552 DEBUG [http-nio-8092-exec-7] e.j.a.b.VaadinUI [VaadinUI.java:55] VaadinUI :: buttonCatalogo.buttonClick :: inicio
+2017-11-12 20:16:58,103 DEBUG [http-nio-8092-exec-7] e.j.a.b.VaadinUI [VaadinUI.java:94] VaadinUI :: transforToArrayList :: inicio
+2017-11-12 20:16:58,103 DEBUG [http-nio-8092-exec-7] e.j.a.b.VaadinUI [VaadinUI.java:99] VaadinUI :: transforToArrayList :: fin
+2017-11-12 20:16:58,134 DEBUG [http-nio-8092-exec-7] e.j.a.b.VaadinUI [VaadinUI.java:65] VaadinUI :: buttonCatalogo.buttonClick :: fin
+2017-11-12 20:19:26,833 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:19:26,953 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:19:26,953 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:19:26,954 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:19:28,881 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 2.034 seconds (JVM running for 374.76)
+2017-11-12 20:34:39,690 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:45] VaadinUI :: init :: inicio
+2017-11-12 20:34:39,714 DEBUG [http-nio-8092-exec-5] e.j.a.b.VaadinUI [VaadinUI.java:89] VaadinUI :: init :: fin
+2017-11-12 20:34:43,298 DEBUG [http-nio-8092-exec-7] e.j.a.b.VaadinUI [VaadinUI.java:73] VaadinUI :: buttonFavorito.buttonClick :: inicio
+2017-11-12 20:34:44,865 DEBUG [http-nio-8092-exec-7] e.j.a.b.VaadinUI [VaadinUI.java:94] VaadinUI :: transforToArrayList :: inicio
+2017-11-12 20:34:44,865 DEBUG [http-nio-8092-exec-7] e.j.a.b.VaadinUI [VaadinUI.java:99] VaadinUI :: transforToArrayList :: fin
+2017-11-12 20:34:44,866 DEBUG [http-nio-8092-exec-7] e.j.a.b.VaadinUI [VaadinUI.java:77] VaadinUI :: buttonFavorito.buttonClick :: fin
+2017-11-12 20:37:38,460 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:37:38,569 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:37:38,569 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:37:38,569 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:37:40,664 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 2.204 seconds (JVM running for 1466.545)
+2017-11-12 20:39:26,771 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:39:27,091 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:39:27,091 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:39:27,091 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:39:28,995 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 2.209 seconds (JVM running for 1574.888)
+2017-11-12 20:39:37,780 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:39:37,890 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:39:37,890 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:39:37,890 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:39:39,766 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 1.971 seconds (JVM running for 1585.657)
+2017-11-12 20:39:50,558 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:39:50,652 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:39:50,652 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:39:50,652 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:39:52,263 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 1.705 seconds (JVM running for 1598.144)
+2017-11-12 20:43:54,115 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:43:54,209 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:43:54,209 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:43:54,209 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:43:55,942 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 1.811 seconds (JVM running for 1841.826)
+2017-11-12 20:55:09,765 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:55:09,874 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:55:09,874 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:55:09,874 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:55:11,555 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 1.775 seconds (JVM running for 2517.438)
+2017-11-12 20:56:36,521 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:56:36,630 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:56:36,630 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:56:36,630 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:56:39,986 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 3.465 seconds (JVM running for 2605.866)
+2017-11-12 20:58:25,079 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:58:25,203 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:58:25,203 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:58:25,203 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:58:27,108 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 2.014 seconds (JVM running for 2712.99)
+2017-11-12 20:59:18,802 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 20:59:18,911 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 20:59:18,911 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 20:59:18,911 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 20:59:20,456 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 1.639 seconds (JVM running for 2766.349)
+2017-11-12 21:00:38,540 DEBUG [http-nio-8092-exec-3] e.j.a.b.VaadinUI [VaadinUI.java:45] VaadinUI :: init :: inicio
+2017-11-12 21:00:38,564 DEBUG [http-nio-8092-exec-3] e.j.a.b.VaadinUI [VaadinUI.java:89] VaadinUI :: init :: fin
+2017-11-12 21:00:47,530 DEBUG [http-nio-8092-exec-2] e.j.a.b.VaadinUI [VaadinUI.java:55] VaadinUI :: buttonCatalogo.buttonClick :: inicio
+2017-11-12 21:00:47,575 DEBUG [http-nio-8092-exec-2] e.j.a.b.VaadinUI [VaadinUI.java:94] VaadinUI :: transforToArrayList :: inicio
+2017-11-12 21:00:47,575 DEBUG [http-nio-8092-exec-2] e.j.a.b.VaadinUI [VaadinUI.java:99] VaadinUI :: transforToArrayList :: fin
+2017-11-12 21:00:47,575 DEBUG [http-nio-8092-exec-2] e.j.a.b.VaadinUI [VaadinUI.java:65] VaadinUI :: buttonCatalogo.buttonClick :: fin
+2017-11-12 21:01:14,199 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [BibliotecaApplication.java:14] BibliotecaApplication :: main :: inicio
+2017-11-12 21:01:14,308 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:48] Starting BibliotecaApplication on HURON with PID 5904 (C:\Users\PALMA\workspace\ATAckathon\biblioteca\target\classes started by PALMA in C:\Users\PALMA\workspace\ATAckathon\biblioteca)
+2017-11-12 21:01:14,308 DEBUG [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:51] Running with Spring Boot v1.4.5.RELEASE, Spring v4.3.7.RELEASE
+2017-11-12 21:01:14,308 INFO [restartedMain] e.j.a.b.BibliotecaApplication [SpringApplication.java:662] No active profile set, falling back to default profiles: default
+2017-11-12 21:01:16,041 INFO [restartedMain] e.j.a.b.BibliotecaApplication [StartupInfoLogger.java:57] Started BibliotecaApplication in 1.826 seconds (JVM running for 2881.933)
+2017-11-12 21:01:26,290 DEBUG [http-nio-8092-exec-3] e.j.a.b.VaadinUI [VaadinUI.java:47] VaadinUI :: init :: inicio
+2017-11-12 21:01:26,316 DEBUG [http-nio-8092-exec-3] e.j.a.b.VaadinUI [VaadinUI.java:92] VaadinUI :: init :: fin
+2017-11-12 21:01:30,433 DEBUG [http-nio-8092-exec-6] e.j.a.b.VaadinUI [VaadinUI.java:58] VaadinUI :: buttonCatalogo.buttonClick :: inicio
+2017-11-12 21:01:30,475 DEBUG [http-nio-8092-exec-6] e.j.a.b.VaadinUI [VaadinUI.java:97] VaadinUI :: transforToArrayList :: inicio
+2017-11-12 21:01:30,490 DEBUG [http-nio-8092-exec-6] e.j.a.b.VaadinUI [VaadinUI.java:102] VaadinUI :: transforToArrayList :: fin
+2017-11-12 21:01:30,490 DEBUG [http-nio-8092-exec-6] e.j.a.b.VaadinUI [VaadinUI.java:68] VaadinUI :: buttonCatalogo.buttonClick :: fin
